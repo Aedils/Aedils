@@ -1,4 +1,9 @@
-<!-- Header -->
+<!-- 🌟 HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=180&section=header&text=Aedils%20✨%20Front-End%20Developer&fontSize=35&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
+</p>
+
+<!-- 👋 ANIMATED INTRO -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+there+👋;+I'm+Aedils!;Front-End+Developer+💻;+Creative+Web+Designer+🎨;+Welcome+to+my+GitHub!"/>
 </h1>
@@ -10,14 +15,14 @@ Heyyo! I'm **Aedils**, a passionate **Front-End Developer** from Indonesia 🇮�
 I love crafting **modern**, **responsive**, and **aesthetic** web designs using  
 **Vue.js**, **Tailwind CSS**, and **JavaScript** ✨  
 
-> *“Design speaks louder than words — and code brings it to life.”* 🎨  
+> 💬 *“Design speaks louder than words — and code brings it to life.”* 🎨  
 
 ---
 
 ### ⚡ What I Do
 - 🚀 Building interactive UI with **Vue 3 + Tailwind CSS**  
 - 🧠 Exploring **animations** & **smooth transitions**  
-- 🎨 Designing simple but elegant layouts  
+- 🎨 Designing clean and elegant layouts  
 - ☕ Coffee + Code = Perfect combo  
 
 ---
@@ -29,7 +34,21 @@ I love crafting **modern**, **responsive**, and **aesthetic** web designs using
 
 ---
 
-### 📈 GitHub Stats
+### 🛠 Tools I Love
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,netlify,vercel,notion" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aedils&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aedils&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aedils&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
@@ -37,23 +56,14 @@ I love crafting **modern**, **responsive**, and **aesthetic** web designs using
 
 ---
 
-### 🌍 Connect With Me
-<p align="center">
-  <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/📸_Instagram-1E90FF?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+### 🚀 Featured Projects
+- 🖼️ [**My Portfolio Website**](https://your-portfolio-link.com) — Vue + Tailwind responsive site  
+- ✅ [**To-Do List App**](https://github.com/Aedils/todolist) — Simple, smooth & modern UI  
+- 💬 [**Chat UI Concept**](https://github.com/Aedils/chat-ui) — Clean chat interface using Vue.js  
 
 ---
 
-<h3 align="center">✨ “Design with passion, code with emotion.” ✨</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
+### 🕒 Coding Stats (via WakaTime)
+<!--START_SECTION:waka-->
+```text
+Still configuring WakaTime... 💡
